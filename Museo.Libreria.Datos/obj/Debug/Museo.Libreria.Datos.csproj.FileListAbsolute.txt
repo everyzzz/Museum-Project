@@ -1,0 +1,5 @@
+G:\MUSEO\MUSEO\Museo.Libreria.Datos\bin\Debug\Museo.Libreria.Datos.dll
+G:\MUSEO\MUSEO\Museo.Libreria.Datos\bin\Debug\Museo.Libreria.Datos.pdb
+G:\MUSEO\MUSEO\Museo.Libreria.Datos\obj\Debug\Museo.Libreria.Datos.csprojResolveAssemblyReference.cache
+G:\MUSEO\MUSEO\Museo.Libreria.Datos\obj\Debug\Museo.Libreria.Datos.dll
+G:\MUSEO\MUSEO\Museo.Libreria.Datos\obj\Debug\Museo.Libreria.Datos.pdb

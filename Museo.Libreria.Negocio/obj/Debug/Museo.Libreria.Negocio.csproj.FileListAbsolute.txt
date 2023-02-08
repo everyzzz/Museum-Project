@@ -1,0 +1,7 @@
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\bin\Debug\Museo.Libreria.Negocio.dll
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\bin\Debug\Museo.Libreria.Negocio.pdb
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\bin\Debug\Museo.Libreria.Datos.dll
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\bin\Debug\Museo.Libreria.Datos.pdb
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\obj\Debug\Museo.Libreria.Negocio.csprojResolveAssemblyReference.cache
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\obj\Debug\Museo.Libreria.Negocio.dll
+G:\MUSEO\MUSEO\Museo.Libreria.Negocio\obj\Debug\Museo.Libreria.Negocio.pdb
